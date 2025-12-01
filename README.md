@@ -29,17 +29,6 @@ Currently, I serve as an **Academic Tutor at UTN**, where I help students master
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Federico-Frankenberger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Federico-Frankenberger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Frankenberger&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ### 🚀 What I'm currently working on...
 
 - 🔭 Developing a **Gym Management API** with microservices architecture and **Spring Security**.
