@@ -31,7 +31,7 @@ Currently, I serve as an **Academic Tutor at UTN**, where I help students master
 
 ### 🚀 What I'm currently working on...
 
-- 🔭 Developing a **Gym Management API** with microservices architecture and **Spring Security**.
+- 🔭 Developing a **Fintech Core Wallet API** using Java 21 and Hexagonal Architecture for high-performance and maintainable business logic.
 - 🌱 Deepening my knowledge in **Docker** containerization and **Cloud Deployment**.
 - 👨‍🏫 Mentoring students on **Clean Code** and **Data Structures** at UTN.
 
